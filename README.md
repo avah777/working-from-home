@@ -1,2 +1,2 @@
 # working-from-home
-class of DevOps 2026
+Welcome to class of DevOps 2026
